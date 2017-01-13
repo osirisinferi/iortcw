@@ -187,40 +187,30 @@ static const unsigned int en_sppak_checksums[] = {
 	2837138611u,
 	3033901371u,
 	483593179u,
-	// sp_pak4.pk3 from GOTY edition
-	4131017020u
 };
 
 static const unsigned int fr_sppak_checksums[] = {
 	2183777857u,
 	3033901371u,
 	839012592u,
-	// sp_pak4.pk3 from GOTY edition
-	4131017020u
 };
 
 static const unsigned int gm_sppak_checksums[] = {
 	3078133571u,
 	285968110u,
 	2694180987u,
-	// sp_pak4.pk3 from GOTY edition
-	4131017020u
 };
 
 static const unsigned int it_sppak_checksums[] = {
 	3826630960u,
 	3033901371u,
 	652965486u,
-	// sp_pak4.pk3 from GOTY edition
-	4131017020u
 };
 
 static const unsigned int sp_sppak_checksums[] = {
 	652879493u,
 	3033901371u,
 	1162920123u,
-	// sp_pak4.pk3 from GOTY edition
-	4131017020u
 };
 
 // if this is defined, the executable positively won't work with any paks other
