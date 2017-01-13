@@ -3749,7 +3749,7 @@ static void FS_CheckSPPaks( void )
 				"Please re-install the 1.41 point release.\n\n", missingPaks ) );
 		}
 
-		Com_Error(ERR_FATAL, "%s", errorText);
+		// Com_Error(ERR_FATAL, "%s", errorText);
 	}
 }
 
